@@ -3,7 +3,11 @@
 <h2 align="center">Hi there, I'm <b>TanjiaDev</b> 🐰💻</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh3ZnJocmR3ZjM0OTczcXZrZnJ3Y2FqYmZ2czUwbXNjYmRydmF0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="150px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF69B4&center=true&vCenter=true&width=500&lines=Flutter+Developer+💙;UI%2FUX+Designer+🎨;Cute+but+Professional+🐇;Always+Learning+🌷" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanjiaDev&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
@@ -30,6 +34,42 @@
 
 ---
 
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/TanjiaDev/flutter-cute-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjiaDev&repo=flutter-cute-app&theme=tokyonight&bg_color=ffdde1&title_color=ff69b4&icon_color=ff69b4&hide_border=true"/>
+  </a>
+  <a href="https://github.com/TanjiaDev/web-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjiaDev&repo=web-portfolio&theme=tokyonight&bg_color=ffdde1&title_color=ff69b4&icon_color=ff69b4&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+- 🌱 Learning advanced Flutter animations  
+- 🐇 Designing pixel-art inspired UI components  
+- 🚀 Building my **personal portfolio site**  
+- 📚 Exploring backend with Firebase & Supabase  
+
+---
+
+## 🎨 My Design Aesthetic
+> ✨ Soft pastel palettes (pinks, blues, lavender)  
+> 🐰 Cute pixel icons + kawaii vibes  
+> 🌸 Minimal, clean, and user-friendly layouts  
+
+---
+
+## 🏆 Highlights
+- 🌟 Built and published 3 Flutter apps  
+- 💼 Freelanced for 2+ clients on UI design  
+- 🥇 Winner of [Hackathon / Competition Name]  
+- 🌍 Reached 500+ stars on GitHub projects  
+
+---
+
 <p align="center">✦───────────────────✦</p>
 
 ## 📊 GitHub Stats
@@ -41,12 +81,16 @@
 
 ---
 
-<p align="center">✦───────────────────✦</p>
+## 📚 Learning & Sharing
+I love documenting what I learn 🌷  
+Check out my articles here → [Dev.to](https://dev.to/) | [Hashnode](https://hashnode.com/)  
+
+---
 
 ## 🌸 Fun Zone
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500px"/>
-  <br/>
+  <br/><br/>
   <img src="https://i.ibb.co/fF7SYTg/cute-pixel-bunny.gif" width="80px"/>
   <img src="https://i.ibb.co/0ZK4KSV/pixel-flowers.gif" width="100px"/>
   <img src="https://i.ibb.co/bPrb8Xd/cute-bear-pixel.gif" width="80px"/>
@@ -65,6 +109,7 @@
 ---
 
 <p align="center">
-  🌸 Thanks for visiting my profile 🌸 <br/>
+  🌸 "Code with kindness, design with love." 🌸 <br/><br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkNndwZG93cWhiNHJ5czZtNm1uZG9vb2s1YzYwbWhwa3ZybjJ0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GhRHW0lFymj0o/giphy.gif" width="100px"/>
 </p>
+
