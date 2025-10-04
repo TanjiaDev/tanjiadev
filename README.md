@@ -20,7 +20,9 @@
 
 ---
 
-<p align="center">✦───────────────────✦</p>
+<p align="center">
+  <img src="https://your-link-here.com/pastel-divider-flowers.png" width="100%" />
+</p>
 
 ## 💻 Tech Stack
 <p align="center">
@@ -34,6 +36,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://your-link-here.com/pastel-divider-stars.png" width="100%" />
+</p>
+
 ## 📌 Featured Projects
 
 <p align="center">
@@ -46,6 +52,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://your-link-here.com/pastel-divider-bunnies.png" width="100%" />
+</p>
 
 ## 🎯 Current Focus
 - 🌱 Learning advanced Flutter animations  
@@ -70,7 +80,9 @@
 
 ---
 
-<p align="center">✦───────────────────✦</p>
+<p align="center">
+  <img src="https://your-link-here.com/pastel-divider-hearts.png" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -86,6 +98,10 @@ I love documenting what I learn 🌷
 Check out my articles here → [Dev.to](https://dev.to/) | [Hashnode](https://hashnode.com/)  
 
 ---
+
+<p align="center">
+  <img src="https://your-link-here.com/pastel-divider-sparkles.png" width="100%" />
+</p>
 
 ## 🌸 Fun Zone
 <p align="center">
@@ -112,4 +128,3 @@ Check out my articles here → [Dev.to](https://dev.to/) | [Hashnode](https://ha
   🌸 "Code with kindness, design with love." 🌸 <br/><br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkNndwZG93cWhiNHJ5czZtNm1uZG9vb2s1YzYwbWhwa3ZybjJ0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GhRHW0lFymj0o/giphy.gif" width="100px"/>
 </p>
-
