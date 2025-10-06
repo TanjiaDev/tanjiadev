@@ -1,130 +1,69 @@
-<h1 align="center">✨🌸 Welcome to My World 🌸✨</h1>
-
-<h2 align="center">Hi there, I'm <b>TanjiaDev</b> 🐰💻</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF69B4&center=true&vCenter=true&width=500&lines=Flutter+Developer+💙;UI%2FUX+Designer+🎨;Cute+but+Professional+🐇;Always+Learning+🌷" />
+ <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=I'm%20Kaniza%20Kasfia&fontSize=50&fontColor=037979&fontAlignY=65" />
+    <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanjiaDev&color=ff69b4&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=kanizadev&color=037979&style=for-the-badge" />
+<h3 align="justify">Hi there! I’m Kaniza — a mobile app and website developer, as well as a graphic designer. When I’m not coding, you’ll find me sketching ideas in Figma, creating visuals in Photoshop or Illustrator, or organizing my life in Notion.</h3>
+<img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
 
----
 
-## 🌷 About Me  
-> 🐇 Crafting **beautiful Flutter & Web apps** ✨  
-> 🎀 Passionate about **UI/UX** with an aesthetic touch  
-> 🍓 Blending **cute vibes** with **professional code**  
-> ☁️ Fun fact: I never work without lofi beats 🎧  
-
----
 
 <p align="center">
-  <img src="https://your-link-here.com/pastel-divider-flowers.png" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Tech%20Stack&fontSize=28&fontColor=037979" /></br>
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider2.png" />
+  <img src="https://img.shields.io/badge/Dart-037979?style=for-the-badge&logo=dart&logoColor=white" alt="Dart badge" />
+  <img src="https://img.shields.io/badge/Flutter-44958E?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge"/>
+  <img src="https://img.shields.io/badge/kotlin-7EB9A7?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge"/></br>
+  <img src="https://img.shields.io/badge/HTML5-037979?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge"/>
+  <img src="https://img.shields.io/badge/CSS3-44958E?style=for-the-badge&logo=css&logoColor=white" alt="CSS3 badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-7EB9A7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge"/></br>
+  <img src="https://img.shields.io/badge/Photoshop-037979?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop badge"/>
+  <img src="https://img.shields.io/badge/Illustrator-44958E?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator badge"/>
+  <img src="https://img.shields.io/badge/figma-7EB9A7?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge"/>
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
-
-## 💻 Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-87CEFA?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Current%20Focus&fontSize=28&fontColor=037979" />
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider2.png" />
+  <img src="https://img.shields.io/badge/Unity-037979?style=for-the-badge&logo=unity&logoColor=white" alt="Unity badge"/></br>
+  <h3 align="center">Learning Unity and 3D game development, typescript to build a world for Zepeto</h3>
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
 
----
 
-<p align="center">
-  <img src="https://your-link-here.com/pastel-divider-stars.png" width="100%" />
-</p>
 
-## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/TanjiaDev/flutter-cute-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjiaDev&repo=flutter-cute-app&theme=tokyonight&bg_color=ffdde1&title_color=ff69b4&icon_color=ff69b4&hide_border=true"/>
-  </a>
-  <a href="https://github.com/TanjiaDev/web-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjiaDev&repo=web-portfolio&theme=tokyonight&bg_color=ffdde1&title_color=ff69b4&icon_color=ff69b4&hide_border=true"/>
-  </a>
-</p>
 
----
 
 <p align="center">
-  <img src="https://your-link-here.com/pastel-divider-bunnies.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=037979" />
+ <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider2.png" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3" alt="Kanizadev's GitHub stats" width="50%" " /></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" />
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
 
-## 🎯 Current Focus
-- 🌱 Learning advanced Flutter animations  
-- 🐇 Designing pixel-art inspired UI components  
-- 🚀 Building my **personal portfolio site**  
-- 📚 Exploring backend with Firebase & Supabase  
 
----
-
-## 🎨 My Design Aesthetic
-> ✨ Soft pastel palettes (pinks, blues, lavender)  
-> 🐰 Cute pixel icons + kawaii vibes  
-> 🌸 Minimal, clean, and user-friendly layouts  
-
----
-
-## 🏆 Highlights
-- 🌟 Built and published 3 Flutter apps  
-- 💼 Freelanced for 2+ clients on UI design  
-- 🥇 Winner of [Hackathon / Competition Name]  
-- 🌍 Reached 500+ stars on GitHub projects  
-
----
 
 <p align="center">
-  <img src="https://your-link-here.com/pastel-divider-hearts.png" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Let’s%20Be%20Friends!&fontSize=28&fontColor=037979" /></br>
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider2.png" />
+  <a href="https://instagram.com/kanizadev"><img src="https://img.shields.io/badge/Instagram-037979?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/kanizadev"><img src="https://img.shields.io/badge/Twitter-44958E?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://discord.com/users/948224120716402708"><img src="https://img.shields.io/badge/Discord-7EB9A7?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanjiaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=90,ffdde1,ee9ca7&title_color=ff69b4&icon_color=ff69b4" width="450"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanjiaDev&theme=tokyonight-duo&hide_border=true&background=ffdde1" width="450"/>
-</p>
 
----
-
-## 📚 Learning & Sharing
-I love documenting what I learn 🌷  
-Check out my articles here → [Dev.to](https://dev.to/) | [Hashnode](https://hashnode.com/)  
-
----
 
 <p align="center">
-  <img src="https://your-link-here.com/pastel-divider-sparkles.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png" />
+ <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Thanks%20for%20visiting!%20Have%20a%20nice%20day!&fontSize=50&fontColor=037979&fontAlignY=45" />
+ <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/footer.png" />
+
 </p>
 
-## 🌸 Fun Zone
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500px"/>
-  <br/><br/>
-  <img src="https://i.ibb.co/fF7SYTg/cute-pixel-bunny.gif" width="80px"/>
-  <img src="https://i.ibb.co/0ZK4KSV/pixel-flowers.gif" width="100px"/>
-  <img src="https://i.ibb.co/bPrb8Xd/cute-bear-pixel.gif" width="80px"/>
-</p>
 
----
-
-## 🐾 Let’s Connect
-<p align="center">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-B0E0E6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-FFB6C1?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://tanjia.dev"><img src="https://img.shields.io/badge/Portfolio-FFE4E1?style=for-the-badge&logo=safari&logoColor=black"/></a>
-</p>
-
----
-
-<p align="center">
-  🌸 "Code with kindness, design with love." 🌸 <br/><br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkNndwZG93cWhiNHJ5czZtNm1uZG9vb2s1YzYwbWhwa3ZybjJ0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GhRHW0lFymj0o/giphy.gif" width="100px"/>
-</p>
