@@ -61,7 +61,7 @@ or organizing my life in Notion.
 
 <h3 align="center">
   <img src="https://64.media.tumblr.com/d11f7e99c9b2a0c1d5436cd2bae958e4/47d7b43574aa74e0-84/s500x750/37fb1d17f956a3853396f79ee00cd9aa3c0f2689.gifv" alt="" width="22" />
-  &nbsp;Building engaging App Development projects while designing intuitive UI/UX experiences and creating motion-based Animations that bring ideas to life.&nbsp;
+  &nbsp;App development, UI/UX design, and animation.&nbsp;
   <img src="https://64.media.tumblr.com/d11f7e99c9b2a0c1d5436cd2bae958e4/47d7b43574aa74e0-84/s500x750/37fb1d17f956a3853396f79ee00cd9aa3c0f2689.gifv" alt="" width="22" />
 </h3>
 
