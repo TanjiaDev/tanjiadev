@@ -10,7 +10,9 @@
 
 <p align="center">
   <!-- Title -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=I%20am%20Tanisha%20Tanjia&fontSize=50&fontColor=FF8FB1&fontAlignY=65" alt="I am Tanisha Tanjia" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=I%20am%20Tanisha%20Tanjia&fontSize=50&fontColor=FF8FB1&fontAlignY=65" alt="I am Tanisha Tanjia" />
+      <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF8FB1&center=true&vCenter=true&width=500&lines=Flutter+Developer;UI%2FUX+Designer;Cute+but+Professional;Always+Learning" />
+
 </p>
 
 <p align="center">
@@ -59,7 +61,7 @@ or organizing my life in Notion.
 
 <h3 align="center">
   <img src="https://64.media.tumblr.com/d11f7e99c9b2a0c1d5436cd2bae958e4/47d7b43574aa74e0-84/s500x750/37fb1d17f956a3853396f79ee00cd9aa3c0f2689.gifv" alt="" width="22" />
-  &nbsp;Learning Unity and 3D game development, TypeScript to build a world for Zepeto&nbsp;
+  &nbsp;Building engaging App Development projects while designing intuitive UI/UX experiences and creating motion-based Animations that bring ideas to life.&nbsp;
   <img src="https://64.media.tumblr.com/d11f7e99c9b2a0c1d5436cd2bae958e4/47d7b43574aa74e0-84/s500x750/37fb1d17f956a3853396f79ee00cd9aa3c0f2689.gifv" alt="" width="22" />
 </h3>
 
@@ -86,7 +88,7 @@ or organizing my life in Notion.
   <br/>
   <a href="https://instagram.com/tanjiadev"><img src="https://img.shields.io/badge/Instagram-FFB3C1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://twitter.com/tanjiadev"><img src="https://img.shields.io/badge/Twitter-FFC9DE?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" /></a>
-  <a href="https://discord.com/users/948224120716402708"><img src="https://img.shields.io/badge/Discord-FFD9E6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/PgrW9drgFR"><img src="https://img.shields.io/badge/Discord-FFD9E6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center">
