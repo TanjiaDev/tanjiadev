@@ -1,5 +1,3 @@
-
-You said:
 <!-- ===================== DECORATION LINKS ===================== 
 Replace the placeholders below with your hosted image URLs.
 [COOKIE_PINK]       = https://... (pink cookie)
